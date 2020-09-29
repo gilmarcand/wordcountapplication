@@ -1,4 +1,4 @@
-#WordCountApplication
+# WordCountApplication
 
 ## Test
 Para executar o teste automatizado da aplicação:
